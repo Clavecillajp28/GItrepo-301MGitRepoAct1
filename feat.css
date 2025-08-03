@@ -1,11 +1,9 @@
-/* General reset */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* Body styling */
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
@@ -15,7 +13,6 @@ body {
   text-align: center;
 }
 
-/* Image styling */
 img {
   width: 200px;
     height: 200px;
@@ -25,24 +22,20 @@ img {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-/* Header */
 h1 {
   font-size: 2rem;
   margin-bottom: 10px;
 }
 
-/* Paragraph text */
 p {
   font-size: 1rem;
   margin-bottom: 20px;
 }
 
-/* Section styling */
 section {
   margin-top: 30px;
 }
 
-/* Link/button */
 a {
   display: inline-block;
   margin-top: 20px;
